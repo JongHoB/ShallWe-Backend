@@ -12,8 +12,6 @@
 
 2023.01.30~2023.02.10 (약 2주)
 
-
-
 ### Front-End Developers
 - [박채연(Product manager)](https://github.com/cccodus313), [박예솔(Project manager)](https://github.com/yessssssssssol), [김성재](https://github.com/jakesungjaekim), [장찬영](https://github.com/Jangchan0)
 
@@ -70,59 +68,38 @@
 ## 1. 메인 페이지
 ### FE
 - react-slick을 사용하여 DB에서 받아온 이미지를 캐러셀로 구성하여 시간이 지남에 따라 이미지가 넘어가도록 구현
-### BE
 
-## 2. 카테고리 페이지
-### FE
-### BE
-
-## 3. 인트로 페이지
+## 2. 인트로 페이지
 ### FE
 - 마우스 드래그를 통해 지정해둔 이미지를 활용하여 인터렉티브 웹을 구현
 
-### BE
-
-## 4. navigation bar
+## 3. navigation bar
 ### FE
 - 홈, 구독 페이지, 로그인 페이지, 마이페이지, 카테고리 페이지로 이동할 수 있도록 구현 
-### BE
 
-## 5. footer
+## 4. footer
 ### FE
 - 세부 정보를 노출하고, 각 이미지 링크로 이동할 수 있도록 구현
-### BE
 
-## 6. 로그인 페이지
-
-### FE
-### BE
-
-## 7. 마이 페이지
-### FE
+## 5. 마이 페이지
 ### BE
 - 사용자의 영화 모임 결제 정보 확인
 - 사용자의 구독 결제 내역, 취소
 - 사용자의 개인 정보 확인
 - 사용자의 리뷰 작성, 수정, 삭제 기능
 
-## 8. 상세 페이지
-
-### FE
+## 6. 상세 페이지
 ### BE
 - 영화 모임 상세페이지
 - 모임시간, 장소 옵션 추가
 
-## 9. 구독 페이지
-
-### FE
+## 7. 구독 페이지
 ### BE
 - Kakao Pay 를 이용한 구독 결제
 - Cron library를 이용한 1개월 주기로 정기 결제 
 - mysql scheduler를 이용해 구독 활성화 취소
 
-## 10. 장바구니, 결제 페이지
-
-### FE
+## 8. 장바구니, 결제 페이지
 ### BE
 - Kakao Pay를 이용한 결제 기능 
 
